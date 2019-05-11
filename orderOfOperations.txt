@@ -1,0 +1,4 @@
+We've installed Leiningen from using Choco for a windows package manager. 
+After that we altered the project file to include an updated closure thingy.
+Inbetween this we have added path variables for ~bin/ 
+Finally we installed fungp in typical github fashion.
